@@ -1,0 +1,23 @@
+ul{
+    list-style: none;
+}
+
+.navigation-list-link:hover{
+
+    color: blue;
+
+}
+
+.contact-info:hover{
+
+    color: blue;
+}
+
+.logo-list-item:focus{
+
+    color: blue;
+
+}
+/*.main-name{
+    color: blue;
+}
